@@ -4,7 +4,7 @@ function Footer() {
   return (
     <>
     <div>Footer Ashwin Deepak</div>
-    <div> Footer added by shani</div>
+    <div> Footer added by shanii</div>
     </>
   )
 }
