@@ -2,7 +2,7 @@ import React from 'react'
 
 function Body() {
   return (
-    <div>Body gshsgsg</div>
+    <div>Body gshsgsgjd</div>
   )
 }
 
