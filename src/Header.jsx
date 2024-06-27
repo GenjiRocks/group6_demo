@@ -2,8 +2,8 @@ import React from 'react'
 
 function Header() {
   return (
-    <div> shani header</div>
-    
+    <div>
+    </div>
   )
 }
 
